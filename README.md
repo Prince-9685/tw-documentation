@@ -3,7 +3,7 @@
 Documentation of the topics covered in the Technical Writing (TW) class:
 **LaTeX, Beamer, Doxygen, Google Docs, and Git/GitHub**.
 
-**Author:** Suraj Pathak, B.Tech CSE, MNIT Jaipur
+**Author:** Prince, B.Tech CSE, MNIT Jaipur
 
 ## Contents
 
@@ -44,7 +44,7 @@ Technical-Writing/
 
 ## How to use this repository
 ```bash
-git clone https://github.com/surajPathak96/Technical-Writing.git
+git clone https://github.com/Prince-9685/tw-documentation
 cd Technical-Writing
 ```
 
