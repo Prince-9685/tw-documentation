@@ -13,7 +13,3 @@ Notes on using Google Docs for technical writing and collaboration.
 | 2 | [Formatting and structure](docs/02-formatting-and-structure.md) | styles, headings, table of contents, tables, images |
 | 3 | [Sharing and collaboration](docs/03-collaboration.md) | sharing roles, comments, suggesting, version history, export |
 | 4 | [Writing tools](docs/04-writing-tools.md) | spell check, citations, templates, add-ons, shortcuts |
-
-## Screenshots
-See [`screenshots/`](screenshots/) for images of the sharing dialog, version history
-and suggesting mode.
